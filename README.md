@@ -1,4 +1,4 @@
-# **Courier Management System- Java Springboot Application** 🚚
+# **Crowd-Sourced Delivery System- Java Springboot Application** 🚚
 A Java SpringBoot web application,for *Courier Services Companies*, following the MVC Architecture framework, design principles and patterns.
 
 Enables Admins to update courier costs and manage staff actions, Staff to view pickup and delivery logs based on their working location, and Customers to place couriers, view the courier status at any time, and see their booking history too!
